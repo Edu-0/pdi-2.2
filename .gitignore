@@ -1,0 +1,5 @@
+docs/
+tmp/
+__pycache__/
+.ipynb_checkpoints/
+tmp/
